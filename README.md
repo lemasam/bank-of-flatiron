@@ -12,7 +12,7 @@
 Thereshiah Lema Samuel
 
 
-Welcome to Flatiron Bank  App!
+Welcome to Flatiron   App!
 
 This application displays recent tabulated bank transactions and also allows the user to:
 - Add a new transaction to the table
@@ -40,8 +40,6 @@ Inorder to get this application working, you need the following:
 
 
 
-- Browser link:
-https://flatiron-bank-data-app.vercel.app/
 
 
 ## contact Details and support:
@@ -50,8 +48,8 @@ github: Lema Samuel,
 email: thereshiah.samuel@student.moringaschool.com
 email: lemasam10@gmail.com
 
-## Web link
-https://grand-crepe-9c5472.netlify.app
+## Browser link
+https://regal-platypus-2dd60b.netlify.app/
 
 ## license
 
